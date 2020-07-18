@@ -1,0 +1,48 @@
+h1,h2,h3{
+    font-family: 'Rubik';
+}
+img{
+    width: auto;
+    background-image: #FECC00;
+ 
+}
+body{
+    background-color:#FECC00;
+    width: auto;
+    text-align: center;
+    margin: 0 auto;
+}
+<style>
+    #cabecalho{
+        background-color: #FECC00;
+        width: auto;
+        padding: 40px 2%;
+        color:#FECC00 ;
+        text-align: center;
+        margin: 0 auto;
+    }
+    #corpo{
+        background-color:#431077;
+        width: auto;
+        padding: 10px 2%;
+        text-align: center;
+        margin: 0 auto;
+    }
+    #rodape{
+        width: auto;
+        padding: 10px 2%;
+        background-color: white;
+        color: black;
+        text-align: left; 
+        position:center;
+        margin: 0 auto;
+    }
+ 
+    .sessao_conteudo{
+        text-align: center;
+        width: 960px;
+        background-color:#EBEBEB;
+        text-align: center;
+        margin: 0 auto;
+    }
+</style>
